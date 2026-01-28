@@ -1,0 +1,26 @@
+body{
+    background-color:#325aa8
+
+}
+button{
+ margin-left: 50px;
+margin-top: 20px;
+background: #3498db;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font-style: italic;
+
+transition: 0.3s;
+}
+button:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    background:#2980b9 ;
+}
+.qutu{
+    display: flex;
+flex-direction: column;
+}
